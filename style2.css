@@ -1,0 +1,48 @@
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	background-size: cover;
+	background-color: #f5f8fa;
+}
+.main-div {
+	width: 280px;
+	height: auto;
+	margin: auto;
+	padding: 10px;
+	padding-left: 15px;
+	background-color: #fff;
+	text-align: left;
+	border-radius: 5px;
+	border: 1px solid lightgray;
+	font-size: 10pt;
+}
+p > a {
+	font-size: 8pt;
+}
+ul {
+	list-style-type: none;
+	padding: 0px;
+}
+li {
+	padding-bottom: 10px;
+}
+a {
+	color: #3B94D9;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:active, a:hover {
+	color: #38C2F5;
+	text-decoration: underline;
+} 
+li span {
+	font: 9pt small-caption;
+	color: #828282;
+	overflow: hidden;
+}
+.Trends { font-size: 12pt;
+	color: #828282;
+}
+img { 
+	width: 17px;
+	height: auto;
+}
